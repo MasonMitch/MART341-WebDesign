@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Mason Mitchell MART341-WebDesign
 Repository for Intro to Web Design homework.
