@@ -11,3 +11,5 @@ I am not sure what to write here so I will likely just write some random thought
 [My File](./Responses.txt)
 
 ![screenshot](./Images/Screenshot(2).png)
+
+![screenshot2](./Images/Capture.PNG)

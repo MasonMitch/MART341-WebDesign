@@ -1,1 +1,3 @@
-test
+Question 1: There are some benefits to using a text editor. For example, it can help teach someone to read HTML. It is also faster to edit your page using one too.
+
+Question 2: Both have ups and downs. For example, relative urls contain no protocols or domain information which makes them shorter. Absolute urls contain all protocols and info for a files location.
