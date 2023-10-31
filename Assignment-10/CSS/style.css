@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    padding: 10px;
+    background: #d69d66;
+    border: 5px solid #3d6d79;
+}
+
+.main-container{
+    background: #5c82a6;
+    padding: 10px;
+    border: 5px solid #99a98f;
+    color: #ffff
+}
+
+#title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    color: #e0e2ee
+}
