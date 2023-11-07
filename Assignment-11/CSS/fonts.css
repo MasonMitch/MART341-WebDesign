@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'PlaypenSans';
+    src: url('../fonts/PlaypenSans-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlaypenSans';
+    src: url('../fonts/PlaypenSans-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
