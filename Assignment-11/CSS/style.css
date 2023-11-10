@@ -14,6 +14,10 @@ body{
     font-weight: bold;
 }
 
+.pic {
+    float: left;
+    margin: 5px;
+}
 .bold {
     font-variant: small-caps;
     font-size: 125%;
