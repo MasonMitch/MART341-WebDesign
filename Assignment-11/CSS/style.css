@@ -14,7 +14,20 @@ body{
     font-weight: bold;
 }
 
-.pic {
-    float: left;
-    margin: 5px;
+.bold {
+    font-variant: small-caps;
+    font-size: 125%;
+    font-style: italic;
+    font-weight: bold;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+    display: none;
+    float: left;
+ }
+ 
+.parent:hover img{
+    display:block;
+ }
