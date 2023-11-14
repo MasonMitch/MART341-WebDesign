@@ -17,6 +17,7 @@ body{
 .pic {
     float: left;
     margin: 5px;
+    
 }
 .bold {
     font-variant: small-caps;
@@ -35,3 +36,4 @@ img {
 .parent:hover img{
     display:block;
  }
+
