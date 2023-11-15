@@ -5,6 +5,9 @@
 
 body {
     background: #164863;
+    padding: 10px;
+    border: 5px double #DDF2FD; 
+    border-radius: 10px;
 }
 
 .header {
@@ -93,11 +96,16 @@ img{
 }
 
 .fly {
-    position: absolute;
-    z-index: 1;
+    display: inline-block;
+    font-size: 30px;
 }
 
 .sea {
-    position: absolute;
-    z-index: 10;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.rich{
+    display: inline-block;
+    font-size: 30px;
 }
